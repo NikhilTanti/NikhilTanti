@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @NikhilTanti
-- 👀 I’m interested in front end development
+- 👀 I’m interested in freelancing.
 - 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on frontend development.
+- 📫 How to reach me ...email: nikhiltanti351@gmail.com.
+- contact no: 6003307161
 
 <!---
 NikhilTanti/NikhilTanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
