@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NikhilTanti
-- 👀 I’m interested in freelancing.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on frontend development.
 - 📫 How to reach me ...email: nikhiltanti351@gmail.com.
